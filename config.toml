@@ -1,0 +1,86 @@
+baseURL = "https://lnd.talentsprint.com/~shruthi_rao/"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Website of Shruthi Rao"
+theme = "anatole"
+summarylength = 10
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Shruthi Rao"
+author = "Shruthi Rao"
+description = "Women Techmakers Engineering Fellow Scholar | Sakura Science Scholar | Associate @ Innerve '20"
+profilePicture = "images/profile.png"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["post"]
+images = ["images/site-feature-image.png"]
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/shruthi-rao-709849196/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/shruthi019/"
+
+[[params.socialIcons]]
+icon = "fa-medium"
+title = "Medium"
+url = "https://medium.com/@raoshruthi2001"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+title = "e-mail"
+url = "mailto:raoshruthi2001@gmail.com"
+
+[[params.socialIcons]]
+icon = "fa-file"
+title = "resume"
+url = "https://drive.google.com/file/d/1Nj_LX62-88wvxwTkKZFejIpxKM07ifTc/view?usp=sharing"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 300
+  identifier = "projects"
+  url = "/projects/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+  
