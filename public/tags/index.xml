@@ -6,26 +6,125 @@
     <description>Recent content in Tags on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://portfolios.talentsprint.com/~shruthi_rao/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>flask</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/flask/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keras</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/keras/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/keras/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/projects/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/python/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shiwu</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/shiwu/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/shiwu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/tensorflow/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bootstrap</title>
       <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/bootstrap/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>flask</title>
-      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/flask/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <title>codestrup</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/codestrup/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/flask/</guid>
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/codestrup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/sql/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lean-in</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/lean-in/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/lean-in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lean-in-igdtuw</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/lean-in-igdtuw/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/lean-in-igdtuw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>webd</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/webd/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/webd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>women-in-tech</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/women-in-tech/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/women-in-tech/</guid>
       <description></description>
     </item>
     
@@ -44,24 +143,6 @@
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/opencv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>projects</title>
-      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/projects/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/python/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/python/</guid>
       <description></description>
     </item>
     
@@ -89,15 +170,6 @@
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/mentorship/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>women-in-tech</title>
-      <link>https://portfolios.talentsprint.com/~shruthi_rao/tags/women-in-tech/</link>
-      <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://portfolios.talentsprint.com/~shruthi_rao/tags/women-in-tech/</guid>
       <description></description>
     </item>
     

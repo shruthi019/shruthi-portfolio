@@ -6,10 +6,37 @@
     <description>Recent content on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://portfolios.talentsprint.com/~shruthi_rao/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Shiwu</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/projects/shiwu/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/projects/shiwu/</guid>
+      <description>Shiwu is a soil type detector and crop suggester that aims to promote sustainable agriculture.</description>
+    </item>
+    
+    <item>
+      <title>CodeStrup</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/projects/codestrup/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/projects/codestrup/</guid>
+      <description>CodeStrup is a web app which aims to teach users basic data structures.</description>
+    </item>
+    
+    <item>
+      <title>Lean In Web-D Circle Orientation</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/post/sixth-post/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/post/sixth-post/</guid>
+      <description>The best part about learning is getting to spread that knowledge by teaching someone else.</description>
+    </item>
     
     <item>
       <title>MaskifAI</title>
@@ -90,8 +117,8 @@ The onset of the COVID-19 pandemic has forced both students and teachers alike t
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://portfolios.talentsprint.com/~shruthi_rao/about/</guid>
-      <description>Hey!
-I am Shruthi Rao, a sophomore pursuing Computer Science and Engineering at Indira Gandhi Delhi Technical University for Women.</description>
+      <description>Hi there!
+I am Shruthi Rao, a junior undergraduate pursuing Computer Science and Engineering at Indira Gandhi Delhi Technical University for Women.</description>
     </item>
     
   </channel>

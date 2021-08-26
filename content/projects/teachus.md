@@ -23,6 +23,8 @@ The onset of the COVID-19 pandemic has forced both students and teachers alike t
 
 TeachUs aims to teach those who have spent years teaching us 😊.
 
+GitHub: https://github.com/shruthi019/TeachUs
+
 {{< youtube mNeLC44eCow >}}
 
 > Built at Hack Against Covid (HAC) 2020

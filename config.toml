@@ -16,7 +16,7 @@ enableRobotsTXT = true
 [params]
 title = "Shruthi Rao"
 author = "Shruthi Rao"
-description = "Incoming Google STEP Intern 2021 <br> Women Techmakers Engineering Fellow Scholar <br> Sakura Science Scholar <br> Associate @ Innerve '20 <br> Mentor @ Lean In IGDTUW"
+description = "Google STEP Intern 2021 <br> Women Techmakers Engineering Fellow Scholar <br> LinkedIn CoachIn Mentee <br> Web Development Core @ Innerve '21 <br> Sakura Science Scholar"
 profilePicture = "images/profile.png"
 keywords = ""
 favicon = "favicons/"
@@ -54,7 +54,7 @@ url = "mailto:raoshruthi2001@gmail.com"
 [[params.socialIcons]]
 icon = "fa-file"
 title = "resume"
-url = "https://drive.google.com/file/d/1Nj_LX62-88wvxwTkKZFejIpxKM07ifTc/view?usp=sharing"
+url = "https://drive.google.com/file/d/1Mp_kWz-O3viVL0NT2mrVeMe-2YjfkLMk/view?usp=sharing"
 
 ## Menu items
 

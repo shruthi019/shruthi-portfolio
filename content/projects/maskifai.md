@@ -24,6 +24,8 @@ The user needs to be authorized as an employee of the organization in order to a
 
 Additionally, if one is authorized as the admin of MaskifAI, they can request the data of the day's defaulters as an email. This feature is not available to regular users of MaskifAI.
 
+GitHub: https://github.com/shruthi019/MaskifAI
+
 {{< youtube r_FddBoQfss >}}
 
 > Built at Women Techmakers Engineering Fellows Bootcamp-1

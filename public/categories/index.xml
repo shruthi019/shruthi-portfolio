@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Website of Shruthi Rao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://portfolios.talentsprint.com/~shruthi_rao/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>projects</title>
       <link>https://portfolios.talentsprint.com/~shruthi_rao/categories/projects/</link>
-      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://portfolios.talentsprint.com/~shruthi_rao/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lean-in</title>
+      <link>https://portfolios.talentsprint.com/~shruthi_rao/categories/lean-in/</link>
+      <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://portfolios.talentsprint.com/~shruthi_rao/categories/lean-in/</guid>
       <description></description>
     </item>
     
